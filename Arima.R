@@ -3,7 +3,6 @@
 #   Unit: Thousand Miles
 #   Data Source: http://www.bts.gov/xml/air_traffic/src/index.xml
 #   and https://datamarket.com/data/set/281x/us-air-carrier-traffic-statistics-revenue-passenger-miles 
-#Not dividing the data into train and test.Hence not calculating error metrics.The below code just shows the implementation Oof ARIMA in R
 
 rm(list=ls(all=TRUE))
 library(RCurl)
