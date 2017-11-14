@@ -7,4 +7,4 @@ Auto Arima algorithm inherently incorporates the calculation of trend and season
 
 ## ARIMAX
 ARIMAX is implented on sales data which contains Date,Weekday,Day,Customer_Visit and whether the day customer visited is Christmas or not.
-ARIMAX provides the way to implement time series forecasting with not only trend and seasonal components but also other independent variables which can affect the dependendent variable.
+ARIMAX provides the way to implement time series forecasting with not only trend and seasonal components but also other independent variables which can affect the dependendent variable.It is implemented using **tseries** and **forecast** libraries.
